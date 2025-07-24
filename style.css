@@ -1,0 +1,233 @@
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: "Tahoma", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+p {
+  text-align: right;
+}
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.navbar-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+section {
+  margin-bottom: -2px;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.gradient-background {
+  background: linear-gradient(300deg, #f9f3ef, #eaded2, #d6c1b1);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background1 {
+  background: linear-gradient(300deg, #f5eee6, #dfccc1, #bfa89e);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background2 {
+  background: linear-gradient(300deg, #e4dad2, #cdc1b5, #b9afa3);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background3 {
+  background: linear-gradient(300deg, #fdf4f0, #e7d5cd, #cab2a8);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background4 {
+  background: linear-gradient(300deg, #ece0d1, #d6c4b2, #baa690);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background5 {
+  background: linear-gradient(300deg, #f2e9e1, #d8c3b7, #c6b0a1);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background6 {
+  background: linear-gradient(300deg, #eaddd3, #d3b8a9, #bfa494);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background7 {
+  background: linear-gradient(300deg, #f6eae1, #decbbf, #c5a89b);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background8 {
+  background: linear-gradient(300deg, #efe4dc, #d8c0b3, #bfa096);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background9 {
+  background: linear-gradient(300deg, #f8edea, #e2cdc5, #cbb0a9);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background10 {
+  background: linear-gradient(300deg, #f3e8df, #dbc7bb, #bfa69a);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background11 {
+  background: linear-gradient(300deg, #f9f1ea, #e6d3c9, #c6a89f);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background12 {
+  background: linear-gradient(300deg, #f4eae4, #d5beb5, #bfa49c);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background13 {
+  background: linear-gradient(300deg, #f7f0e9, #e3cfc2, #c9a89a);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background14 {
+  background: linear-gradient(300deg, #f2e6dc, #d8bfb2, #bb998d);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background15 {
+  background: linear-gradient(300deg, #f8eee6, #e0c6b8, #c6a094);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background16 {
+  background: linear-gradient(300deg, #f3e7de, #d5bcae, #b99687);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background17 {
+  background: linear-gradient(300deg, #f6f0e5, #e4d1bf, #c5a38b);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background18 {
+  background: linear-gradient(300deg, #f9f3ea, #e6cfc1, #cca896);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background19 {
+  background: linear-gradient(300deg, #efe6de, #d4bfb0, #b99586);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background20 {
+  background: linear-gradient(300deg, #f3eade, #dbc3ae, #bf9b82);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background21 {
+  background: linear-gradient(300deg, #f8f0e7, #e6cfc1, #cfa895);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background22 {
+  background: linear-gradient(300deg, #f1e6dc, #d9c1b1, #bd9888);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background23 {
+  background: linear-gradient(300deg, #f6ebe2, #e3c5b3, #c99f8b);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background24 {
+  background: linear-gradient(300deg, #f3e8de, #ddc5b6, #c2a192);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background25 {
+  background: linear-gradient(300deg, #fdf4ed, #e6cdc2, #cc9c8f);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background26 {
+  background: linear-gradient(300deg, #f3eae2, #dfc6b8, #c7a190);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background27 {
+  background: linear-gradient(300deg, #f8f1e8, #e4cec0, #cfa692);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background28 {
+  background: linear-gradient(300deg, #f2eae1, #ddc6b7, #caa192);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background29 {
+  background: linear-gradient(300deg, #f5ece3, #e1cabc, #ccaa9d);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background30 {
+  background: linear-gradient(300deg, #f7eee5, #e5cdbf, #d0ad9d);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background31 {
+  background: linear-gradient(300deg, #f6e9df, #dec3b2, #c39c8c);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
